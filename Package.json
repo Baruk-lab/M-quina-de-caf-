@@ -1,0 +1,9 @@
+{
+  "name": "simulador-maquina-cafe",
+  "version": "1.0.0",
+  "main": "api/maquina.js",
+  "scripts": {
+    "start": "node api/maquina.js"
+  },
+  "dependencies": {}
+}
